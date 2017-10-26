@@ -5,7 +5,7 @@ A batch file that copies files from one directory to another. Done with the help
 ### Download
 Just download ```copy-files.bat``` and double click to run.
 ### Using git
-```git clone https://github.com/benTheBike/copy-files.bat c:/directory```
+```git clone https://github.com/benTheBike/copy-files.bat.git c:/directory```
 
 ```cd c:/directory```
 
